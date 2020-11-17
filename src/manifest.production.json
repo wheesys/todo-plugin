@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "todo-plugin",
+    "description": "todo plugin about onenote",
+    "version": "0.0.1",
+    "options_page": "options.html",
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
